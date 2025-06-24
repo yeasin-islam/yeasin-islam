@@ -1,35 +1,71 @@
-# 💫 About Me:
+<!-- Banner -->
+<img src="https://github.com/yeasin-islam/yeasin-islam/blob/main/Bannar.png" alt="Md. Yeasin Islam | MERN Stack Developer" style="width:100%; border-radius: 8px;" />
 
-<img src="https://github.com/yeasin-islam/yeasin-islam/blob/main/Bannar.png">
+<br/>
 
-👋 Hi, I’m @yeasin-islam<br>👀 I’m interested in ...<br>🌱 I’m currently learning ...<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me ...<br>😄 Pronouns: ...<br>⚡ Fun fact: ...
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/yeasin.islam2018) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yeasin-islam75) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info.yeasinislam@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yeasin-islam&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=yeasin-islam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin-islam&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yeasin-islam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yeasin-islam&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">Hi, I'm Md Yeasin Islam 👋</h1>
+<h3 align="center">🚀 Passionate MERN Stack Developer | Problem Solver | Lifelong Learner</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=yeasin-islam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🧑‍💻 About Me
 
-<!---
-yeasin-islam/yeasin-islam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about crafting beautiful and functional web applications that make a difference. I’m currently focused on full-stack projects using the **MERN** stack and exploring advanced tools like **Next.js**, **Firebase**, and **JWT** to level up my game.
+
+- 🎓 Final year CS student
+- 🌐 I build modern web apps that solve real-world problems
+- 🌱 Currently learning advanced backend with **Node.js** and **API security**
+- 🛠️ Building a **[Roommate Finder](https://roommate-finder-b11-a10.web.app)**, **[Marathon Managment System](https://marathon-management-syst-f546e.web.app)**, and more!
+- 🤝 Always open to collaboration and learning from the dev community
+
+---
+
+# 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mongodb,firebase,vite,tailwind,figma,git,github" />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <a href="mailto:info.yeasinislam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yeasin-islam75"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://facebook.com/yeasin.islam2018"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yeasin-islam&theme=tokyonight&show_icons=true&hide_border=false" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin-islam&layout=compact&theme=tokyonight&hide_border=false" height="180px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=yeasin-islam&theme=tokyonight&hide_border=false" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yeasin-islam&theme=tokyonight&margin-w=10&no-frame=true" />
+</p>
+
+---
+
+# 📅 Recent Activities
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=yeasin-islam&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+</p>
+
+---
+
+# 💡 Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev Quote" />
+</p>
+
+---
+
+🛠 Powered by passion | 💬 Always open to collaboration | 🔥 Let’s build something cool together!
+
