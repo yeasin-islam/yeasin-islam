@@ -7,6 +7,9 @@
 <p align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100"></p>
 <h1 align="center">Hi <img src = "https://github.com/yeasin-islam/yeasin-islam/blob/main/hi.gif" width="50px" height="50px">, I'm Md Yeasin Islam </h1>
 <h3 align="center">🚀 Passionate MERN Stack Web Developer | Problem Solver | Lifelong Learner</h3>
+<p align="center">
+<!--   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=MERN+Stack+Web+Developer;Open+Source+Contributor;Lifelong+Learner;React+%2B+Node+Enthusiast;Building+cool+stuff..." alt="Typing SVG"> -->
+</p>
 
 ---
 
