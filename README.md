@@ -2,10 +2,7 @@
 <img src="https://github.com/yeasin-islam/yeasin-islam/blob/main/Banner.gif" alt="Md. Yeasin Islam | MERN Stack Developer" style="width:100%; border-radius: 8px;" />
 <p align="left"><img src="https://komarev.com/ghpvc/?username=yeasin-islam&label=Profile%20views&color=0e75b6&style=flat" alt="yeasin-islam" /></p>
 <br/>
-
-<p align="center">
- <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100">
-</p>
+<p align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100"></p>
 <h1 align="center">Hi <img src = "https://github.com/yeasin-islam/yeasin-islam/blob/main/hi.gif" width="50px" height="50px">, I'm Md Yeasin Islam </h1>
 <h3 align="center">🚀 Passionate MERN Stack Web Developer | Problem Solver | Lifelong Learner</h3>
 
