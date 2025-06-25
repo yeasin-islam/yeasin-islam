@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <img src="https://github.com/yeasin-islam/yeasin-islam/blob/main/Banner1.gif" alt="Md. Yeasin Islam | MERN Stack Developer" style="width:100%; border-radius: 8px;" />
-<p align="left"><img src="https://komarev.com/ghpvc/?username=yeasin-islam&label=Profile%20views&color=0e75b6&style=flat" alt="yeasin-islam" /></p>
+
 <br/>
 <p align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100"></p>
 <h1 align="center">Hi <img src = "https://github.com/yeasin-islam/yeasin-islam/blob/main/hi.gif" width="50px" height="50px">, I'm Md Yeasin Islam </h1>
@@ -20,6 +20,22 @@ Passionate about crafting beautiful and functional web applications that make a 
 - 🌱 Currently learning advanced backend with **Node.js** and **API security**
 - 🛠️ Building a **[Roommate Finder](https://roommate-finder-b11-a10.web.app)**, **[Marathon Managment System](https://marathon-management-syst-f546e.web.app)**, and more!
 - 🤝 Always open to collaboration and learning from the dev community
+
+---
+
+### Portfolio
+
+> *pending...*
+
+<p align="center"><strong>Loading...</strong></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!" />
+</p>
 
 ---
 
@@ -69,6 +85,32 @@ Passionate about crafting beautiful and functional web applications that make a 
 <!-- Example for DaisyUI -->
 <img src="https://img.shields.io/badge/DaisyUI-FF61F6?style=for-the-badge&logo=TailwindCSS&logoColor=white" />
 </p>
+
+---
+
+## 🔍 Project Highlights <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="30px" height="30px" />
+Here are some of my top projects:
+
+---
+
+🎯 **Runners.bd** — Marathon Management System  
+- Role-based platform for runners and organizers to manage events, registrations, and tracking  
+- Features Firebase Auth, JWT, countdowns, and responsive dashboard  
+🔗 [Live](https://marathon-management-syst-f546e.web.app) | [GitHub Repo](https://github.com/yeasin-islam/Marathon-Management-System)
+
+---
+
+🎯 **Roommate Finder** — Find Compatible Roommates  
+- A full-stack web app to post, search, and connect with potential roommates  
+- Built with MERN stack, Firebase Auth, and Tailwind  
+🔗 [Live](https://roommate-finder-b11-a10.web.app/) | [GitHub Repo](https://github.com/yeasin-islam/Roommate-Finder)
+
+---
+
+🎯 **EventExplorer** — Event Discovery Web App  
+- Explore, register, and organize events with search and filtering  
+- Built with React, Firebase, Tailwind, DaisyUI, and Swiper  
+🔗 [Live](https://eventexplorer-b4.web.app) | [GitHub Repo](https://github.com/yeasin-islam/EventExplorer)
 
 ---
 
@@ -130,6 +172,9 @@ Passionate about crafting beautiful and functional web applications that make a 
 🛠 Powered by passion | 💬 Always open to collaboration | 🔥 Let’s build something cool together!
 
 ---
+
+
+
 <p align="center">
   Thanks for visiting my profile! 😊  
   <br/>
