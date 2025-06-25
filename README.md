@@ -11,7 +11,9 @@
 # 💫 About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
 Passionate about crafting beautiful and functional web applications that make a difference. I’m currently focused on full-stack projects using the **MERN** stack and exploring advanced tools like **Next.js**, **Firebase**, and **JWT** to level up my game.
+
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 🎓 Second year CSE student
 - 🌐 I build modern web apps that solve real-world problems
 - 🌱 Currently learning advanced backend with **Node.js** and **API security**
