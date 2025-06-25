@@ -128,3 +128,10 @@ Passionate about crafting beautiful and functional web applications that make a 
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
 
 🛠 Powered by passion | 💬 Always open to collaboration | 🔥 Let’s build something cool together!
+
+---
+<p align="center">
+  Thanks for visiting my profile! 😊  
+  <br/>
+  Let's connect and build something awesome!
+</p>
