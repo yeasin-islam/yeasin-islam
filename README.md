@@ -1,17 +1,17 @@
 <!-- Banner -->
 <img src="https://github.com/yeasin-islam/yeasin-islam/blob/main/Bannar1.png" alt="Md. Yeasin Islam | MERN Stack Developer" style="width:100%; border-radius: 8px;" />
-
+<span align="left"><img src="https://komarev.com/ghpvc/?username=yeasin-islam&label=Profile%20views&color=0e75b6&style=flat" alt="yeasin-islam" /></span>
 <br/>
 
-<h1 align="center">Hi, I'm Md Yeasin Islam 👋</h1>
+<h1 align="center">Hi <img src = "https://github.com/yeasin-islam/yeasin-islam/blob/main/hi.gif" width="50px" height="50px">, I'm Md Yeasin Islam </h1>
 <h3 align="center">🚀 Passionate MERN Stack Web Developer | Problem Solver | Lifelong Learner</h3>
 
 ---
 
-# 🧑‍💻 About Me
+# 💫 About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
 Passionate about crafting beautiful and functional web applications that make a difference. I’m currently focused on full-stack projects using the **MERN** stack and exploring advanced tools like **Next.js**, **Firebase**, and **JWT** to level up my game.
-
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🎓 Second year CSE student
 - 🌐 I build modern web apps that solve real-world problems
 - 🌱 Currently learning advanced backend with **Node.js** and **API security**
@@ -20,7 +20,31 @@ Passionate about crafting beautiful and functional web applications that make a 
 
 ---
 
-# 🚀 Tech Stack
+# 🌐 Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
+
+<p align="center">
+  <p align="center">
+  <a href="mailto:info.yeasinislam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<!--   <a href="https://linkedin.com/in/yeasin-islam75"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+<!--   <a href="https://facebook.com/yeasin.islam2018"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> -->
+<!--   <a href="https://x.com/yeasin_islam75"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
+<!--   <a href="https://medium.com/@info.yeasinislam"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a> -->
+<!--   <a href="https://www.behance.net/mdyeasinislam4"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a> -->
+</p>
+
+</p>
+<p align="center"> 
+<a href="https://x.com/yeasin_islam75" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
+<a href="https://www.linkedin.com/in/yeasin-islam75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
+<a href="https://www.facebook.com/yeasin.islam2018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakil.atik15" height="30" width="40" /></a>  
+<a href="https://www.instagram.com/yeasin.islam2018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__atik_" height="30" width="40" /></a>    
+<a href="https://www.behance.net/mdyeasinislam4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
+<a href="https://medium.com/@info.yeasinislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shakilatik" height="30" width="40" /></a>  
+</p> 
+
+---
+
+# 🚀 Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mongodb,firebase,vite,tailwind,figma,git,github" />
@@ -28,17 +52,7 @@ Passionate about crafting beautiful and functional web applications that make a 
 
 ---
 
-# 🌐 Connect With Me
-
-<p align="center">
-  <a href="mailto:info.yeasinislam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yeasin-islam75"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://facebook.com/yeasin.islam2018"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</p>
-
----
-
-# 📊 GitHub Stats
+# 📊 My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px">
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yeasin-islam&theme=tokyonight&show_icons=true&hide_border=false" height="180px"/>
@@ -52,20 +66,24 @@ Passionate about crafting beautiful and functional web applications that make a 
 
 ---
 
-# 📅 Recent Activities
-
+# 📅 Recent Activities <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40px" height="40px" />
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=yeasin-islam&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
 
 ---
 
-# 💡 Dev Quote
+# 💡 Dev Quote <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="40px" height="40px" />
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev Quote" />
 </p>
 
 ---
 
+## 🤝 Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> 
+
+![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
+
 🛠 Powered by passion | 💬 Always open to collaboration | 🔥 Let’s build something cool together!
+
 
