@@ -28,7 +28,7 @@ Passionate about crafting beautiful and functional web applications that make a 
 
 ---
 
-## 🗂️ Portfolio
+# 🗂️ Portfolio <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="40px" alt="Animated folder" />
 
 > *pending... exciting things loading soon!*
 
@@ -77,26 +77,27 @@ Passionate about crafting beautiful and functional web applications that make a 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mongodb,firebase,vite,tailwind,figma,git,github" />
   <br/>
+  <!-- Example for DaisyUI -->
+<img src="https://img.shields.io/badge/DaisyUI-FF61F6?style=for-the-badge&logo=TailwindCSS&logoColor=white" />
+
   <!-- Example for React Router -->
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-
-<!-- Example for JWT -->
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 
 <!-- Example for Nodemon -->
 <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
 
+<!-- Example for JWT -->
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+
 <!-- Example for Canva -->
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
 
-<!-- Example for DaisyUI -->
-<img src="https://img.shields.io/badge/DaisyUI-FF61F6?style=for-the-badge&logo=TailwindCSS&logoColor=white" />
-</p>
-
 ---
 
-## 🔍 Project Highlights <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="30px" height="30px" />
+# 🔍 Project Highlights <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="40px" alt="Animated folder" />
 Here are some of my top projects:
+
+</p>
 
 ---
 
@@ -171,7 +172,7 @@ Here are some of my top projects:
 ---
 
 <!-- Recent Activities Section -->
-# 📅 Recent Activities <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40px" height="40px" />
+# 📅 Recent Activities <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="40px" alt="Animated folder" />
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=yeasin-islam&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 </p>
