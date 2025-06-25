@@ -12,9 +12,9 @@
 
 Passionate about crafting beautiful and functional web applications that make a difference. I’m currently focused on full-stack projects using the **MERN** stack and exploring advanced tools like **Next.js**, **Firebase**, and **JWT** to level up my game.
 
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="50%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🎓 Second year CSE student
+- 🎓 Second year CSE student at World University of Bngladesh
 - 🌐 I build modern web apps that solve real-world problems
 - 🌱 Currently learning advanced backend with **Node.js** and **API security**
 - 🛠️ Building a **[Roommate Finder](https://roommate-finder-b11-a10.web.app)**, **[Marathon Managment System](https://marathon-management-syst-f546e.web.app)**, and more!
