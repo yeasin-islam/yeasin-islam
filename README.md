@@ -134,6 +134,15 @@ Here are some of my top projects:
   </a>
 </p>
 
+<!-- GitHub Profile Summary Cards -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yeasin-islam&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yeasin-islam&theme=github_dark" />
+</p>
+
 <!-- GitHub Trophies (Primary) -->
 <p align="center">
 <!--   <img src="https://github-profile-trophy.vercel.app/?username=yeasin-islam&theme=tokyonight&margin-w=10&no-frame=true" /> -->
