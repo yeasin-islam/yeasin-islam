@@ -1,8 +1,11 @@
 <!-- Banner -->
 <img src="https://github.com/yeasin-islam/yeasin-islam/blob/main/Banner.gif" alt="Md. Yeasin Islam | MERN Stack Developer" style="width:100%; border-radius: 8px;" />
-<span align="left"><img src="https://komarev.com/ghpvc/?username=yeasin-islam&label=Profile%20views&color=0e75b6&style=flat" alt="yeasin-islam" /></span>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=yeasin-islam&label=Profile%20views&color=0e75b6&style=flat" alt="yeasin-islam" /></p>
 <br/>
 
+<p align="center">
+ <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100">
+</p>
 <h1 align="center">Hi <img src = "https://github.com/yeasin-islam/yeasin-islam/blob/main/hi.gif" width="50px" height="50px">, I'm Md Yeasin Islam </h1>
 <h3 align="center">🚀 Passionate MERN Stack Web Developer | Problem Solver | Lifelong Learner</h3>
 
@@ -25,7 +28,6 @@ Passionate about crafting beautiful and functional web applications that make a 
 # 🌐 Connect With Me <img src = "https://media2.giphy.com/media/al7grkbrCChTAPEfyh/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
 <p align="center">
-  <p align="center">
 <!--   <a href="mailto:info.yeasinislam@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
 <!--   <a href="https://linkedin.com/in/yeasin-islam75"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 <!--   <a href="https://facebook.com/yeasin.islam2018"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> -->
@@ -82,7 +84,7 @@ Passionate about crafting beautiful and functional web applications that make a 
 
 ---
 
-## 🤝 Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> 
+# 🤝 Support Me <img src = "https://media2.giphy.com/media/RJgjFf46V4KVa1l42A/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"> 
 
 ![Waves](https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/36f6082eed9388f5965d96f2fbc917a2cb888c89/wave.svg)
 
