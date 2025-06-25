@@ -25,11 +25,13 @@ Passionate about crafting beautiful and functional web applications that make a 
 
 ---
 
-### Portfolio
+## 🗂️ Portfolio
 
-> *pending...*
+> *pending... exciting things loading soon!*
 
-<p align="center"><strong>Loading...</strong></p>
+<p align="center">
+  <strong>Loading Portfolio...</strong><br/><br/>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!" />
