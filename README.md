@@ -1,5 +1,5 @@
 <!-- Banner Section -->
-<img src="https://github.com/yeasin-islam/yeasin-islam/blob/main/Banner.gif" alt="Md. Yeasin Islam | MERN Stack Developer" style="width:100%; border-radius: 8px;" />
+<img src="https://github.com/yeasin-islam/yeasin-islam/blob/main/Banner1.gif" alt="Md. Yeasin Islam | MERN Stack Developer" style="width:100%; border-radius: 8px;" />
 <p align="left"><img src="https://komarev.com/ghpvc/?username=yeasin-islam&label=Profile%20views&color=0e75b6&style=flat" alt="yeasin-islam" /></p>
 <br/>
 <p align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100"></p>
