@@ -1,6 +1,8 @@
 <!-- Banner Section -->
 <img src="https://github.com/yeasin-islam/yeasin-islam/blob/main/Banner1.gif" alt="Md. Yeasin Islam | MERN Stack Developer" style="width:100%; border-radius: 8px;" />
-
+<p align="left">
+<!--   <img src="https://komarev.com/ghpvc/?username=yeasin-islam&label=Profile%20views&color=0e75b6&style=flat" alt="yeasin-islam" /> -->
+</p>
 <br/>
 <p align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100"></p>
 <h1 align="center">Hi <img src = "https://github.com/yeasin-islam/yeasin-islam/blob/main/hi.gif" width="50px" height="50px">, I'm Md Yeasin Islam </h1>
@@ -146,6 +148,12 @@ Here are some of my top projects:
   </a>
 </p>
 
+
+<p align="center">
+  <a href="https://stars.github.com/profiles/denvercoder1/">
+    <img src="https://github.com/DenverCoder1/DenverCoder1/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star 2023"/></a>
+</p>
+
 ---
 
 <!-- Recent Activities Section -->
@@ -173,7 +181,10 @@ Here are some of my top projects:
 
 ---
 
-
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/yeasin-islam/count.svg" />
+</p>
 
 <p align="center">
   Thanks for visiting my profile! 😊  
