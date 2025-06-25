@@ -104,7 +104,7 @@ Here are some of my top projects:
 🎯 **Runners.bd** — Marathon Management System  
 - Role-based platform for runners and organizers to manage events, registrations, and tracking  
 - Features Firebase Auth, JWT, countdowns, and responsive dashboard  
-🔗 [Live](https://marathon-management-syst-f546e.web.app) | [GitHub Repo](https://github.com/yeasin-islam/Marathon-Management-System)
+🔗 [Live](https://marathon-management-syst-f546e.web.app) | [GitHub Repo](https://github.com/yeasin-islam/Runners.bd)
 
 ---
 
@@ -118,7 +118,7 @@ Here are some of my top projects:
 🎯 **EventExplorer** — Event Discovery Web App  
 - Explore, register, and organize events with search and filtering  
 - Built with React, Firebase, Tailwind, DaisyUI, and Swiper  
-🔗 [Live](https://eventexplorer-b4.web.app) | [GitHub Repo](https://github.com/yeasin-islam/EventExplorer)
+🔗 [Live](https://event-explorer-catagori-jesmine-a9.netlify.app/) | [GitHub Repo](https://github.com/yeasin-islam/event-explorer)
 
 ---
 
