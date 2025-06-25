@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img src="https://github.com/yeasin-islam/yeasin-islam/blob/main/Bannar1.png" alt="Md. Yeasin Islam | MERN Stack Developer" style="width:100%; border-radius: 8px;" />
+<img src="https://github.com/yeasin-islam/yeasin-islam/blob/main/Banner.gif" alt="Md. Yeasin Islam | MERN Stack Developer" style="width:100%; border-radius: 8px;" />
 <span align="left"><img src="https://komarev.com/ghpvc/?username=yeasin-islam&label=Profile%20views&color=0e75b6&style=flat" alt="yeasin-islam" /></span>
 <br/>
 
