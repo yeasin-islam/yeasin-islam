@@ -30,10 +30,20 @@ Passionate about crafting beautiful and functional web applications that make a 
 
 # 🗂️ Portfolio <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="40px" alt="Animated folder" />
 
-> *pending... exciting things loading soon!*
+
+> *🎉 I’m excited to share that my personal portfolio website is now live! (and still growing)!*
 
 <p align="center">
-  <strong>Loading Portfolio...</strong><br/><br/>
+<!--   <strong>> *pending... exciting things loading soon!*</strong><br/><br/> -->
+</p>
+<p align="center">
+<!--   <strong>Loading Portfolio...</strong><br/><br/> -->
+</p>
+
+<p align="center">
+  <a href="https://yeasin-islam75.web.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐 Visit_My_Portfolio-ff0054?style=for-the-badge&logo=react" />
+  </a>
 </p>
 
 <p align="center">
