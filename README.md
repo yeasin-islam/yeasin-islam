@@ -207,8 +207,9 @@ Here are some of my top projects:
 ---
 
 <p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/yeasin-islam/count.svg" />
+<!--   Visitors count<br> -->
+<!--   <img src="https://profile-counter.glitch.me/yeasin-islam/count.svg" /> -->
+  <img src="https://komarev.com/ghpvc/?username=yeasin-islam&label=Profile%20Views&color=0e75b6&style=flat" alt="yeasin-islam" />
 </p>
 
 <p align="center">
