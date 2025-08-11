@@ -61,6 +61,8 @@ Passionate about crafting beautiful and functional web applications that make a 
 
 <p align="center">
 <!-- Social Links as Shields (Commented Out) -->
+<!--   <a href="tel:+8801318181198" target="blank"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white" /></a> -->
+<!--   <a href="https://wa.me/8801318181198" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a> -->
 <!--   <a href="mailto:info.yeasinislam@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
 <!--   <a href="https://linkedin.com/in/yeasin-islam10"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
 <!--   <a href="https://facebook.com/yeasin.islam2018"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" /></a> -->
@@ -71,12 +73,15 @@ Passionate about crafting beautiful and functional web applications that make a 
 
 <!-- Social Icons Row -->
 <p align="center"> 
-<a href="https://x.com/yeasin_islam75" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
+<a href="tel:+8801318181198" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="phone" height="30" width="30" /></a>    
+<a href="https://wa.me/8801318181198" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="whatsapp" height="30" width="30" /></a>    
+<a href="mailto:info.yeasinislam@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" /></a>  
 <a href="https://www.linkedin.com/in/yeasin-islam75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
+<a href="https://x.com/yeasin_islam75" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
 <a href="https://www.facebook.com/yeasin.islam2018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shakil.atik15" height="30" width="40" /></a>  
 <a href="https://www.instagram.com/yeasin.islam2018" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__atik_" height="30" width="40" /></a>    
-<a href="https://www.behance.net/mdyeasinislam4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
-<a href="https://medium.com/@info.yeasinislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shakilatik" height="30" width="40" /></a>  
+<!-- <a href="https://www.behance.net/mdyeasinislam4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="shakilahmedatik" height="30" width="40" /></a>   -->
+<!-- <a href="https://medium.com/@info.yeasinislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shakilatik" height="30" width="40" /></a>   -->
 </p> 
 
 ---
