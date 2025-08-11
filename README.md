@@ -6,7 +6,16 @@
 <br/>
 <p align="center"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="100"></p>
 <h1 align="center">Hi <img src = "https://github.com/yeasin-islam/yeasin-islam/blob/main/hi.gif" width="50px" height="50px">, I'm Md Yeasin Islam </h1>
-<h3 align="center">🚀 Passionate MERN Stack Web Developer | Problem Solver | Lifelong Learner</h3>
+<h3 align="center"><img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width="30"/>MERN Stack Web Developer | Problem Solver | Lifelong Learner 🚀</h3>
+
+<!-- Auto TypWriter -->
+<p align="center">
+<!-- <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=purple&size=28&center=true&vCenter=true&width=500&lines=I'm+Md.+Yeasin+Islam;A+MERN+Stack+Web+Developer;Open+Source+Contributor;Problem+Solver;Lifelong+Learner;Love+to+Build+Creative+Things" alt="Typing SVG" />
+</a> -->
+</p>
+
+<!-- Auto TypWriter -->
 <p align="center">
 <!--   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=F97316&center=true&vCenter=true&width=435&lines=MERN+Stack+Web+Developer;Open+Source+Contributor;Lifelong+Learner;React+%2B+Node+Enthusiast;Building+cool+stuff..." alt="Typing SVG"> -->
 </p>
@@ -194,6 +203,24 @@ Here are some of my top projects:
 
 ---
 
+
+ # 🐍 GitHub Contribution Snake <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px valign="bottom">
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" width="100%" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" width="100%" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+<!-- Snake Game Repo View -->
+
+<div align="center">
+<!--   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="100%" /> -->
+</div>
+
+---
+
 <!-- Dev Quote Section -->
 # 💡 Dev Quote <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="40px" height="40px" />
 <p align="center">
@@ -215,6 +242,7 @@ Here are some of my top projects:
 <!--   Visitors count<br> -->
 <!--   <img src="https://profile-counter.glitch.me/yeasin-islam/count.svg" /> -->
   <img src="https://komarev.com/ghpvc/?username=yeasin-islam&label=Profile%20Views&color=0e75b6&style=flat" alt="yeasin-islam" />
+  <a href="https://github.com/yeasin-islam?tab=followers"><img src="https://img.shields.io/github/followers/yeasin-islam?label=Followers&style=social" alt="GitHub Followers"></a>
 </p>
 
 <p align="center">
@@ -222,3 +250,11 @@ Here are some of my top projects:
   <br/>
   Let's connect and build something awesome!
 </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=4000&pause=3000&color=888888&center=true&vCenter=true&width=400&lines=💻+Happy+Coding!+Keep+Building+Amazing+Things!" />
+</div>
