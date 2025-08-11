@@ -73,7 +73,7 @@ Passionate about crafting beautiful and functional web applications that make a 
 
 <!-- Social Icons Row -->
 <p align="center"> 
-<a href="tel:+8801318181198" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="phone" height="30" width="30" /></a>    
+<!-- <a href="tel:+8801318181198" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/724/724664.png" alt="phone" height="30" width="30" /></a>     -->
 <a href="https://wa.me/8801318181198" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="whatsapp" height="30" width="30" /></a>    
 <a href="mailto:info.yeasinislam@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="email" height="40" width="40" /></a>  
 <a href="https://www.linkedin.com/in/yeasin-islam75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakilahmedatik" height="30" width="40" /></a>  
