@@ -100,21 +100,34 @@ Passionate about crafting beautiful and functional web applications that make a 
 # 🚀 Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mongodb,firebase,vite,tailwind,figma,git,github" />
-  <br/>
-  <!-- Example for DaisyUI -->
+<!--   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,react,nodejs,express,mongodb,firebase,vite,tailwind,figma,git,github" />
+  <br/> -->
+<!-- Languages -->
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+<!-- Frameworks & Libraries -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+
+<!-- Example -->
 <img src="https://img.shields.io/badge/DaisyUI-FF61F6?style=for-the-badge&logo=TailwindCSS&logoColor=white" />
-
-  <!-- Example for React Router -->
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-
-<!-- Example for Nodemon -->
 <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
-
-<!-- Example for JWT -->
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-
-<!-- Example for Canva -->
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white" />
 
 ---
@@ -150,19 +163,25 @@ Here are some of my top projects:
 <!-- GitHub Stats Section -->
 # 📊 My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width="40px" height="40px">
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yeasin-islam&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin-islam&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeasin-islam&theme=tokyonight&show_icons=true&hide_border=false" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin-islam&layout=compact&theme=tokyonight&hide_border=false" height="180px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=yeasin-islam&theme=tokyonight&hide_border=false" height="180px"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=yeasin-islam&theme=tokyonight&show_icons=true&hide_border=false" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeasin-islam&layout=compact&theme=tokyonight&hide_border=false" height="180px"/> -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=yeasin-islam&theme=tokyonight&hide_border=false" height="180em"/>
 </p>
 
 <!-- Activity Graph with Fallback -->
 <p align="center">
-  <a href="https://github.com/yeasin-islam">
+<!--   <a href="https://github.com/yeasin-islam">
     <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=yeasin-islam&theme=react-dark&bg_color=00000000&hide_border=true&color=0ABAB5&line=FF6F00&point=FFFFFF&cache_seconds=86400" 
          onerror="this.onerror=null;this.src='https://activity-graph.herokuapp.com/graph?username=yeasin-islam&theme=react-dark&bg_color=00000000&hide_border=true';" 
          alt="Activity Graph" />
-  </a>
+  </a> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yeasin-islam&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 </p>
 
 <!-- GitHub Profile Summary Cards -->
@@ -204,6 +223,8 @@ Here are some of my top projects:
 
 ---
 
+<!-- ### 📅 Contribution Calendar 
+<img src="https://ghchart.rshah.org/409ba5/yeasin-islam" alt="Contribution Calendar" width="100%"/> -->
 
  # 🐍 GitHub Contribution Snake <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=40px height="40px" valign="bottom">
 
